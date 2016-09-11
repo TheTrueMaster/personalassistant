@@ -6,3 +6,8 @@
 first, clone the repo
 second, run "node personalassistant.js"
 done!
+
+##Contributions
+
+###Goals
+- Make it actually a personal assistant :P 
