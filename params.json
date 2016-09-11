@@ -1,6 +1,6 @@
 {
   "name": "Personal Assistant",
   "tagline": "A Bot for the Ages",
-  "body": "\r\n\r\n#Installation\r\n\r\n##Install Node (this is the most important part\r\nfirst, clone the repo\r\nsecond, run \"node personalassistant.js\"\r\ndone!\r\n",
+  "body": "# personalassistant\r\n\r\n#Installation\r\n\r\n##Install Node (this is the most important part\r\nfirst, clone the repo\r\nsecond, run \"node personalassistant.js\"\r\ndone!\r\n\r\n##Contributions\r\n\r\n###Goals\r\n- Make it actually a personal assistant :P \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
